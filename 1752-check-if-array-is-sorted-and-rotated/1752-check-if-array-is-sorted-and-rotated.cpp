@@ -2,21 +2,13 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int n = nums.size();
-        if (n==1) return true;
+        int count = 0;
 
-        int pos = 1;
-        while (pos<n && nums[pos]>=nums[pos-1]) {
-            pos++ ;
+        for(int i = 0; i<n ;i++) {
+            if(nums[i] > nums[(i+1)%n]) {
+                count++ ;
+            }
         }
-        if(pos == n) return true;
-        if(nums[pos] > nums[0]) return false;
-        if(pos==n-1) return true;
-
-        pos++;
-        while(pos<n && nums[pos]<=nums[0] && nums[pos]>=nums[pos-1]) {
-            pos++ ;
-        }
-
-        return pos==n ;
+        return count<=1;
     }
 };
