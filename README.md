@@ -33,7 +33,10 @@ The solutions are organized by difficulty level:
 ## 📊 Progress Dashboard
 
 <!-- LEETCODE_TABLE_START -->
-<!-- This section is automatically populated by GitHub Actions -->
+
+| # | Problem Name | Difficulty | Language | Solution |
+|---|---|---|---|---|
+
 <!-- LEETCODE_TABLE_END -->
 
 ---
