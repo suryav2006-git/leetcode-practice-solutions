@@ -3,7 +3,7 @@ int reverse(int num){
     int reversed = 0;
     while(num!=0) {
         digit = num % 10;
-        // last digit
+        
         if( reversed > INT_MAX / 10 || reversed < INT_MIN / 10 ) {
             return 0;
         }
