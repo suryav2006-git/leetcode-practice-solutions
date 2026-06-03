@@ -1,3 +1,55 @@
+# 🚀 LeetCode Practice Solutions
+
+Welcome to my personal LeetCode repository! This repository automatically tracks and stores my solutions to various algorithmic problems as I solve them.
+
+[![LeetCode Stats](https://shields.io)](https://leetcode.com)
+[![GitHub Repo Size](https://shields.io)](https://github.com)
+[![GitHub Last Commit](https://shields.io)](https://github.com)
+
+---
+
+## 📊 LeetCode Profile Statistics
+
+<p align="center">
+  <a href="https://leetcode.com">
+    <img src="https://jacoblin.cool" alt="suryav2006-git LeetCode Stats" />
+  </a>
+</p>
+
+---
+
+## 📂 Repository Structure
+
+The solutions are organized by difficulty level:
+
+```text
+├── Easy/
+├── Medium/
+└── Hard/
+```
+
+---
+
+## 📊 Progress Dashboard
+
+<!-- LEETCODE_TABLE_START -->
+<!-- This section is automatically populated by GitHub Actions -->
+<!-- LEETCODE_TABLE_END -->
+
+---
+
+## 🛠️ Built With Automation
+
+This repository is synced automatically. The dashboard table above updates automatically on every commit thanks to a background GitHub Actions script.
+
+---
+
+## 👤 Author
+
+- **GitHub:** [@suryav2006-git](https://github.com)
+- **LeetCode:** [suryav2006-git](https://leetcode.com)
+
+
 # leetcode-practice-solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
