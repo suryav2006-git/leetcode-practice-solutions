@@ -10,7 +10,7 @@ class Solution {
         if (pos==n) return true;
         if ( nums[pos] > nums[0] )  return false;
         if (pos == n-1) return true;
-
+        //
         pos++ ;
         while(pos<n && nums[pos]<=nums[0] && nums[pos]>=nums[pos-1] ) {
             pos++ ;
