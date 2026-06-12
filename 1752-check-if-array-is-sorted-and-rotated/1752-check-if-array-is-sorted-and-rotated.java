@@ -4,17 +4,19 @@ class Solution {
         if(n==1) return true;
 
         int pos = 1;
-        while( pos<n && nums[pos] >= nums[pos-1]) {
-            pos++ ;
+        while(pos<n && nums[pos] >= nums[pos-1] ) {
+            pos = pos + 1;
+        } 
+
+        if (pos == n) return true;
+        if (nums[pos] > nums[0] ) return false;
+        
+
+        pos = pos + 1;
+
+        while(pos<n && nums[pos] <= nums[0] && nums[pos]>= nums[pos-1]) {
+            pos = pos + 1;
         }
-        if (pos==n) return true;
-        if ( nums[pos] > nums[0] )  return false;
-        if (pos == n-1) return true;
-        //
-        pos++ ;
-        while(pos<n && nums[pos]<=nums[0] && nums[pos]>=nums[pos-1] ) {
-            pos++ ;
-        }
-        return n==pos ;
+        return pos == n;
     }
 }
