@@ -3,10 +3,10 @@ class Solution {
         int n = nums.length;
         int low = 0;
         int high = n-1;
-
         int index = n;
+
         while(low<=high) {
-            int mid = (low + high) / 2;
+            int mid = low + (high - low) / 2;
             if(nums[mid] >= target) {
                 index = mid;
                 high = mid -1;
