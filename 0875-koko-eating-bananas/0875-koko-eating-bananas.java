@@ -11,10 +11,10 @@ class Solution {
         }
         return maxi;
     }
-    public int totalhrsof(int[] piles, int hour) {
+    public long totalhrsof(int[] piles, int hour) {
         if(hour == 0) return Integer.MAX_VALUE ;
         
-        int totalhrs = 0;
+        long totalhrs = 0;
         int n = piles.length;
 
         for(int i=0; i<n ; i++) {
@@ -28,7 +28,7 @@ class Solution {
 
         while(low<=high) {
             int mid = low + (high - low) / 2;
-            int totalhrs = totalhrsof(piles, mid);
+            long totalhrs = totalhrsof(piles, mid);
 
             if(totalhrs <= hours) {
                 high = mid-1;
