@@ -12,6 +12,8 @@ class Solution {
         return maxi;
     }
     public int totalhrsof(int[] piles, int hour) {
+        if(hour == 0) return Integer.MAX_VALUE ;
+        
         int totalhrs = 0;
         int n = piles.length;
 
