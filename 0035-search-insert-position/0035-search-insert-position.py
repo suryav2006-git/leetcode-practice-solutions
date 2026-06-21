@@ -5,17 +5,19 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        n  = len(nums)
+        n = len(nums)
+        ans = n
         low = 0
         high = n-1
-        index = n
 
-        while(low<=high):
-            mid = (low + high)// 2
+        while(low<=high) :
+            mid = low + (high - low) // 2
+
             if(nums[mid] >= target) :
-                index = mid
+                ans = mid
                 high = mid-1
-            else :
-                low = mid +1
-        return index
+            else : low = mid+1
+        return ans
+
+
         
