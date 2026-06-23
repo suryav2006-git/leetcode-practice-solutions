@@ -13,9 +13,7 @@ class Solution {
         int sum =0;
         int n = nums.length;
 
-        for(int i=0; i<n ; i++) {
-            sum += Math.ceil( (double) nums[i] / (double) div);
-        }
+        for(int num : nums) sum += ( (num+div-1) / div );
         return sum;
     }
 
