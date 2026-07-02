@@ -43,7 +43,7 @@ public:
         return ind2ele;
     }
 
-    return ( (double) (double) ind1ele + ind2ele ) / 2.0;
+    return ( ind1ele + ind2ele ) / 2.0;
 
 
     }
