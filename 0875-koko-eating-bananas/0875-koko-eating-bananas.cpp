@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int maxof(vector<int> piles) {
+    int maxof(vector<int>& piles) {
         int n = piles.size();
         int maxi = INT_MIN ;
 
@@ -11,7 +11,7 @@ public:
         return maxi;
     }
 
-    long long totalhrsof(vector<int> piles, int hour) {
+    long long totalhrsof(vector<int>& piles, int hour) {
         if (hour == 0) return LLONG_MAX ;
 
         long long totalhrs = 0;
