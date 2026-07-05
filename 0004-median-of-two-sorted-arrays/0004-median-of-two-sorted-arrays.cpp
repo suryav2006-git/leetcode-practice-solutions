@@ -27,7 +27,7 @@ public:
             if(l1 <= r2 && l2 <= r1) {
                 if(n%2 == 1) return max(l1, l2);
 
-                return (double) (max(l1,l2) + min(r1,r2) ) / 2.0;
+                return (max(l1,l2) + min(r1,r2) ) / 2.0;
             }
             else if (l1 > r2) high = mid1-1;
             else low = mid1 + 1;
