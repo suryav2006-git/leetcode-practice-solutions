@@ -1,25 +1,30 @@
-import sys
-
 class Solution(object):
     def maxProfit(self, prices):
         """
         :type prices: List[int]
         :rtype: int
         """
-
-        if not prices :
-            return 0
-
-        n = len(prices)
-        minprice = sys.maxsize
+        minprice = float('inf')
         maxprice = 0
 
-        for currentprice in prices:
-            if(currentprice < minprice) :
-                minprice = currentprice
-            else:
-                profit = currentprice - minprice
-                if(profit > maxprice) :
-                    maxprice = profit
+        for price in prices:
+            if price < minprice:
+                minprice = price
+            elif price - minprice > maxprice:
+                maxprice = price - minprice
         return maxprice
+
+""" 
+class Solution(object):
+    def maxProfit(self, prices):
+        minprice=float('inf')
+        maxprofit=0
+
+        for price in prices:
+            if price < minprice:
+                minprice= price
+            elif price - minprice > maxprofit:
+                maxprofit= price-minprice
+        return maxprofit
+ """
         
