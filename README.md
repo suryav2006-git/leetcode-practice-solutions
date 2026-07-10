@@ -94,4 +94,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
