@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
 ## Database
 |  |
