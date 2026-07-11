@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0007-reverse-integer](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +108,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
