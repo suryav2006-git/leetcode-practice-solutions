@@ -94,10 +94,15 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0175-combine-two-tables) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
