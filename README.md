@@ -108,8 +108,17 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
