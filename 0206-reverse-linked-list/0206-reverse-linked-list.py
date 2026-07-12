@@ -13,11 +13,10 @@ class Solution(object):
         current = head
         next = None
 
-        while(current) :
+        while current :
             next = current.next
             current.next = prev
             prev = current
             current = next
-        head = prev
-        return head
+        return prev
         
