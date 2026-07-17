@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int excess;
         int element ;
-        map<int,int> mpp;
+        unordered_map<int,int> mpp;
 
         for(int i=0;i<n;i++) {
             element = nums[i];
