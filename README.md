@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -99,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
