@@ -46,6 +46,7 @@
 | [0206-reverse-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0283-move-zeroes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
