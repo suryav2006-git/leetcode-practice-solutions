@@ -14,31 +14,25 @@ public:
         ListNode *dummy = new ListNode(-1);
         ListNode *current = dummy;
 
-        ListNode *temp1 = head1;
-        ListNode *temp2 = head2;
         int carry = 0;
 
-        while(temp1 != nullptr || temp2 != nullptr) {
+        while(head1 != nullptr || head2!= nullptr || carry!=0) {
             int sum = carry;
 
-            if(temp1 != nullptr) sum += temp1 -> val;
-            if(temp2 != nullptr) sum += temp2 -> val;
-
-            ListNode *newnode = new ListNode(sum%10);
+            if(head1 != NULL) {
+                sum += head1 -> val;
+                head1 = head1 -> next;
+            } 
+            if(head2 != NULL) {
+                sum += head2 -> val;
+                head2 = head2 -> next;
+            }
+            
             carry = sum / 10;
 
-            current -> next = newnode;
-            current = current->next;
-
-            if(temp1 != nullptr) temp1 = temp1 -> next;
-            if(temp2 != nullptr) temp2 = temp2 -> next;
+            current -> next = new ListNode(sum % 10);
+            current = current -> next;
         }
-
-        if(carry) {
-            ListNode *newnode = new ListNode(carry);
-            current -> next = newnode;
-        }
-
-        return dummy->next;
+        return dummy -> next;
     }
 };
