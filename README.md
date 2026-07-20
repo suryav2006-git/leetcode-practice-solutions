@@ -44,6 +44,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -52,6 +53,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -90,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
