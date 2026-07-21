@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0088-merge-sorted-array) |
