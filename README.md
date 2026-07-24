@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
@@ -101,6 +102,7 @@
 | [0002-add-two-numbers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
