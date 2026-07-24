@@ -1,0 +1,27 @@
+class Solution {
+public:
+    double myPow(double x, int n) {
+        if(n == 0) return 1.0;
+
+        long long N = n;
+
+        if(N<0) {
+            x = 1.0 / x;
+            N = -N;
+        }
+
+        double ans = 1.0;
+
+        while(N>0) {
+            if(N%2 == 1) {
+                ans = ans * x;
+                N = N -1 ;
+            }
+            else {
+                N = N / 2;
+                x = x * x;
+            }
+        }
+        return ans;
+    }
+};
