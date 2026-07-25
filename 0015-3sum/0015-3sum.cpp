@@ -5,8 +5,14 @@ public:
         vector<vector<int>> ans;
         sort(arr.begin() , arr.end());
 
-        for(int i=0; i<n ; i++) {
+        for(int i=0; i<n-2 ; i++) {
+            if(arr[i] > 0) break;
+
             if(i > 0 && arr[i] == arr[i-1])  continue;
+
+            if(arr[i] + arr[i+1] + arr[i+2] > 0) break;
+            if(arr[i] + arr[n-1] + arr[n-2] < 0) continue;
+ 
             int j = i+1;
             int k = n-1;
 
