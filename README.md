@@ -154,6 +154,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0234-palindrome-linked-list) |
 ## Memoization
@@ -176,4 +177,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
