@@ -36,6 +36,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@
 | [0050-powx-n](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
+| [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
