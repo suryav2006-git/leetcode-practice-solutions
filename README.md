@@ -38,6 +38,7 @@
 | [1539-kth-missing-positive-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -146,6 +147,7 @@
 | [0217-contains-duplicate](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## String
 |  |
 | ------- |
@@ -230,4 +232,5 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1672-richest-customer-wealth) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
