@@ -1,21 +1,26 @@
 class Solution {
     public int matchPlayersAndTrainers(int[] players, int[] trainers) {
-        Arrays.sort(players);
-        Arrays.sort(trainers);
+        int m = players.length;
+        int n = trainers.length;
 
-        int n1 = players.length;
-        int n2 = trainers.length;
-
-        int i =0, j=0;
-        int count = 0;
-
-        while(i<n1 && j< n2) {
-            if(players[i] <= trainers[j]) {
+        Thread t1 = new Thread(() -> Arrays.sort(players));
+        Thread t2 = new Thread(() -> Arrays.sort(trainers));
+        t1.start();
+        t2.start();
+        try {
+            t1.join();
+            t2.join();
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        }
+        int i = 0, j = 0, count = 0;
+        while (i < m && j < n) {
+            if (players[i] <= trainers[j]) {
+                i++;
                 count++;
-                i++ ;
-            } 
-            j++ ;
-        } 
+            }
+            j++;
+        }
         return count;
     }
 }
