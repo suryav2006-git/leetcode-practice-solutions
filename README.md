@@ -39,6 +39,7 @@
 | [1672-richest-customer-wealth](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2553-separate-the-digits-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -218,6 +219,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Breadth-First Search
 |  |
