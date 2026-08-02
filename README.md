@@ -38,6 +38,7 @@
 | [1539-kth-missing-positive-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
@@ -90,6 +91,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0217-contains-duplicate](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## String
 |  |
@@ -235,4 +238,8 @@
 | [0200-number-of-islands](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1672-richest-customer-wealth) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Greedy
+|  |
+| ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
