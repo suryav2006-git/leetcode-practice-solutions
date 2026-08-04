@@ -91,6 +91,7 @@
 | [0283-move-zeroes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -164,6 +165,7 @@
 | [0125-valid-palindrome](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0541-reverse-string-ii) |
 ## Database
 |  |
 | ------- |
