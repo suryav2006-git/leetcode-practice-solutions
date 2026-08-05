@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -230,6 +231,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Breadth-First Search
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1672-richest-customer-wealth) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Greedy
