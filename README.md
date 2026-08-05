@@ -42,6 +42,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -124,6 +125,7 @@
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
