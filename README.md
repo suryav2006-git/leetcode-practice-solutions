@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -252,5 +253,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
