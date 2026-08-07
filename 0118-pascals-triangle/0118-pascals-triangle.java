@@ -1,0 +1,25 @@
+class Solution {
+    public List<List<Integer>> generate(int numRows) {
+        List<List<Integer>> triangle = new ArrayList<>(numRows);
+        
+        for (int i = 0; i < numRows; ++i) {
+            List<Integer> row = new ArrayList<>(i + 1);
+            
+            for (int j = 0; j <= i; ++j) {
+                if (j == 0 || j == i) {
+                    row.add(1);
+                } else {
+                    List<Integer> prevRow = triangle.get(i - 1);
+                    row.add(prevRow.get(j - 1) + prevRow.get(j));
+                }
+            }
+            triangle.add(row);
+        }
+        
+        return triangle;
+    }
+}
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
