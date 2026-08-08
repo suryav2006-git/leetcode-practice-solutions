@@ -31,6 +31,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
@@ -259,6 +260,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
