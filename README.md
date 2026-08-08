@@ -47,6 +47,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -164,6 +165,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
@@ -259,4 +261,5 @@
 | ------- |
 | [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
