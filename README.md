@@ -31,6 +31,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0704-binary-search) |
@@ -63,6 +64,7 @@
 | [0217-contains-duplicate](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0217-contains-duplicate](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
@@ -204,10 +207,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Tree
 |  |
 | ------- |
