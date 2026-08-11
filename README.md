@@ -35,6 +35,7 @@
 | [0605-can-place-flowers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0665-non-decreasing-array) |
 | [0704-binary-search](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0875-koko-eating-bananas) |
@@ -169,6 +170,7 @@
 | [0242-valid-anagram](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
