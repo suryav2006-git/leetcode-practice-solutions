@@ -36,6 +36,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0665-non-decreasing-array) |
+| [0697-degree-of-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
@@ -70,6 +71,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0697-degree-of-an-array) |
 | [3731-find-missing-elements](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
