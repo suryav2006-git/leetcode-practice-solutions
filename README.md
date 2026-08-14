@@ -43,6 +43,7 @@
 | [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0875-koko-eating-bananas) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -179,6 +180,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Sliding Window
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0860-lemonade-change) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
