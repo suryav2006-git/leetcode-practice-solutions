@@ -34,6 +34,7 @@
 | [0495-teemo-attacking](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0665-non-decreasing-array) |
 | [0697-degree-of-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0697-degree-of-an-array) |
@@ -141,6 +142,7 @@
 | [0050-powx-n](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0598-range-addition-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
