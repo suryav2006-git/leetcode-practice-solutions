@@ -48,6 +48,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1672-richest-customer-wealth) |
@@ -181,6 +182,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
