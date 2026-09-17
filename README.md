@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@
 | [0009-palindrome-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0598-range-addition-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -293,4 +295,24 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2706-buy-two-chocolates) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
