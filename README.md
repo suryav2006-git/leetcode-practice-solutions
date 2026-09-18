@@ -130,6 +130,7 @@
 | [0162-find-peak-element](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0875-koko-eating-bananas) |
@@ -146,6 +147,7 @@
 | [0050-powx-n](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0598-range-addition-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
