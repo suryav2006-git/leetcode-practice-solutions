@@ -88,6 +88,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -150,6 +151,7 @@
 | [0367-valid-perfect-square](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/0598-range-addition-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/suryav2006-git/leetcode-practice-solutions/tree/master/3895-count-digit-appearances) |
