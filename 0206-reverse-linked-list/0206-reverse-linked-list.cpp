@@ -11,17 +11,21 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        struct ListNode *prev = nullptr;
-        struct ListNode *current = head;
-        struct ListNode *next = nullptr;
+        ListNode *prev = nullptr;
+        ListNode *next = nullptr;
+        ListNode *current = head;
 
         while(current != nullptr) {
-            next = current->next ;
-            current-> next = prev;
-            prev = current ;
+            next = current->next;
+            current->next = prev;
+            prev = current;
             current = next;
         }
-        head = prev;
-        return head;
+        ListNode *newHead = prev;
+        return newHead;
     }
 };
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
